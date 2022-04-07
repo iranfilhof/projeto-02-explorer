@@ -1,2 +1,2 @@
-# projeto-desafio-02-explorer
+# projeto-02-explorer
 explorer project
